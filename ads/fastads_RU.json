@@ -24,7 +24,12 @@
       },
       {
         "name": "native_banner_ad",
-        "units": []
+        "units": [
+          {
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-5386258317333363/1856902767"
+          }
+        ]
       },
       {
         "name": "banner_ad",
