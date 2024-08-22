@@ -1,0 +1,35 @@
+{
+  "admob": {
+    "placements": [
+      {
+        "name": "fullscreen_ad",
+        "units": [
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-5386258317333363/3417839247"
+          },
+          {
+            "type": "int",
+            "identifier": "ca-app-pub-5386258317333363/3589229638"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-5386258317333363/8334553188"
+          },
+          {
+            "type": "int",
+            "identifier": "ca-app-pub-5386258317333363/2276147965"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-5386258317333363/7165512560"
+          },
+          {
+            "type": "int",
+            "identifier": "ca-app-pub-5386258317333363/2041178396"
+          }
+        ]
+      }
+    ]
+  }
+}
