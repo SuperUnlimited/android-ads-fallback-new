@@ -29,6 +29,23 @@
             "identifier": "ca-app-pub-5386258317333363/2041178396"
           }
         ]
+      },
+      {
+        "name": "native_banner_ad",
+        "units": [
+          {
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-5386258317333363/6426736300"
+          },
+          {
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-5386258317333363/4922082945"
+          },
+          {
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-5386258317333363/4730511256"
+          }
+        ]
       }
     ]
   }
