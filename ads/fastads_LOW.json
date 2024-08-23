@@ -46,6 +46,23 @@
             "identifier": "ca-app-pub-5386258317333363/4730511256"
           }
         ]
+      },
+      {
+        "name": "banner_ad",
+        "units": [
+          {
+            "type": "ban",
+            "identifier": "ca-app-pub-5386258317333363/1031287472"
+          },
+          {
+            "type": "ban",
+            "identifier": "ca-app-pub-5386258317333363/5517327390"
+          },
+          {
+            "type": "ban",
+            "identifier": "ca-app-pub-5386258317333363/1730604553"
+          }
+        ]
       }
     ]
   }
