@@ -1,0 +1,78 @@
+{
+  "admob": {
+    "placements": [
+      {
+        "name": "fullscreen_ad",
+        "units": [
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-5386258317333363/7021273069"
+          },
+          {
+            "type": "int",
+            "identifier": "ca-app-pub-5386258317333363/9205433333"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-5386258317333363/2831596674"
+          },
+          {
+            "type": "int",
+            "identifier": "ca-app-pub-5386258317333363/3085897480"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-5386258317333363/9184401970"
+          },
+          {
+            "type": "int",
+            "identifier": "ca-app-pub-5386258317333363/5708191398"
+          }
+        ]
+      },
+      {
+        "name": "native_banner_ad",
+        "units": [
+          {
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-5386258317333363/6426736300"
+          },
+          {
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-5386258317333363/4922082945"
+          },
+          {
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-5386258317333363/4730511256"
+          }
+        ]
+      },
+      {
+        "name": "banner_ad",
+        "units": [
+          {
+            "type": "ban",
+            "identifier": "ca-app-pub-5386258317333363/1031287472"
+          },
+          {
+            "type": "ban",
+            "identifier": "ca-app-pub-5386258317333363/5517327390"
+          },
+          {
+            "type": "ban",
+            "identifier": "ca-app-pub-5386258317333363/1730604553"
+          }
+        ]
+      },
+      {
+        "name": "app_open",
+        "units": [
+          {
+            "type": "app_op",
+            "identifier": "ca-app-pub-5386258317333363/8191635579"
+          }
+        ]
+      }
+    ]
+  }
+}
