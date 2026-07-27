@@ -6,27 +6,19 @@
         "units": [
           {
             "type": "int",
-            "identifier": "ca-app-pub-5386258317333363/8318544304"
+            "identifier": "ca-app-pub-5386258317333363/3172216066"
           },
           {
             "type": "adv_nav",
-            "identifier": "ca-app-pub-5386258317333363/7170351572"
+            "identifier": "ca-app-pub-5386258317333363/6205573518"
           },
           {
             "type": "int",
-            "identifier": "ca-app-pub-5386258317333363/9129310515"
+            "identifier": "ca-app-pub-3940256099942544/1033173712"
           },
           {
             "type": "adv_nav",
-            "identifier": "ca-app-pub-5386258317333363/9716623862"
-          },
-          {
-            "type": "int",
-            "identifier": "ca-app-pub-5386258317333363/2372330471"
-          },
-          {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-5386258317333363/7194123067"
+            "identifier": "ca-app-pub-3940256099942544/1044960115"
           }
         ]
       },
@@ -61,6 +53,15 @@
           {
             "type": "ban",
             "identifier": "ca-app-pub-5386258317333363/1730604553"
+          }
+        ]
+      },
+      {
+        "name": "app_open",
+        "units": [
+          {
+            "type": "app_op",
+            "identifier": "ca-app-pub-5386258317333363/3327836103"
           }
         ]
       }
